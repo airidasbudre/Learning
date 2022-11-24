@@ -36,3 +36,16 @@
 # Shift+Alt+A Toggle block comment
 # Alt+Z Toggle word wrap
 # -------------------------------------
+
+# Navigation
+# -------------------------------------
+# Ctrl+T Show all Symbols
+# Ctrl+G Go to Line...
+# Ctrl+P Go to File...
+# Ctrl+Shift+O Go to Symbol...
+# Ctrl+Shift+M Show Problems panel
+# F8 Go to next error or warning
+# Shift+F8 Go to previous error or warning
+# Ctrl+Shift+Tab Navigate editor group history
+# Alt+ ← / → Go back / forward
+#--------------------------------------
