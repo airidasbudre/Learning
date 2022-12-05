@@ -94,7 +94,19 @@
 # Ctrl+K F12 Open Definition to the side
 # Ctrl+. Quick Fix
 # Shift+F12 Show References
-# F2 Rename Symbol
+#  F2 Rename Symbol
+# Ctrl+K Ctrl+X Trim trailing whitespace
+# Ctrl+K M Change file language
+#  --------------------------------------
+
+# Editor management
+# ---------------------------------------
+# Ctrl+F4, Ctrl+W Close editor
+# Ctrl+K F Close folder
+# Ctrl+\ Split editor
+# Ctrl+ 1 / 2 / 3 Focus into 1
+# st, 2nd or 3rd editor group
+# Ctrl+K Ctrl+ ←/→ Focus into previous/next editor group
+# Ctrl+Shift+PgUp / PgDn Move editor left/right
+# Ctrl+K ← / → Move active editor group
 # --------------------------------------
-Ctrl+K Ctrl+X Trim trailing whitespace
-Ctrl+K M Change file language
